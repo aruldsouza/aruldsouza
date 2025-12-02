@@ -1,68 +1,81 @@
-<h1 align="center">👋 Hey, I’m a Software Developer</h1>
+<h1 align="center">👋 Hi, I'm Arul D Souza J</h1>
 
-💻 I love building scalable applications and turning ideas into working software.  
-⚡ I focus on clean code, problem-solving, and continuous learning.
+💻 Full-Stack Developer passionate about building scalable and user-focused applications.  
+🚀 I enjoy creating interactive UIs, integrating APIs, and developing end-to-end solutions.
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💬 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
-</p>
-
-### 🔗 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### ☁️ Cloud / DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
+📍 Chennai, India  
+📫 Email: **aruldsouzaj@gmail.com**  
+🔗 LinkedIn: www.linkedin.com/in/arul-d-souza-j-a964652a4  
+🧑‍💻 GitHub: https://github.com/aruldsouza
 
 ---
 
-## 🚀 Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| **E-Commerce App** | Full shopping system with payment & cart | MERN |
-| **Task Manager API** | Role-based task management with JWT | Node + PostgreSQL |
-| **Real-Time Chat App** | WebSockets with live messaging & notifications | React + Socket.io |
+## 🛠️ Tech Stack
 
-🔗 Explore more in my repositories below ⬇️
+### 🔹 Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" /></p>
 
----
+### 🔹 Programming Languages
+<p><img src="https://skillicons.dev/icons?i=java,js" /></p>
 
-## 🌱 Learning & Interests
+### 🔹 Database
+<p><img src="https://skillicons.dev/icons?i=mysql" /></p>
 
-📌 Currently learning: distributed systems, cloud deployments, high-performance backend  
-🔥 Interests: AI integration, automation, design patterns, open-source
+### 🔹 Tools & Platforms
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,androidstudio,intellij" /></p>
 
 ---
 
-## 📬 Contact
+## 🚀 Projects 
 
-📩 **Email:** yourmail@example.com  
-🔗 **LinkedIn:** https://linkedin.com/in/your-profile  
-🌍 **Portfolio:** https://yourportfolio.com  
+### 🌌 Solar System Website
+Interactive educational platform featuring games, quizzes, and chatbot.  
+Tech: React, Tailwind CSS
+
+### ✈️ Airline Reservation Portal
+UI prototypes for airline booking & search with smooth user navigation.  
+Tech: React
+
+### 💡 Smart Street Light Management (Hackathon Shortlisted)
+IoT-based real-time street light automation system for energy optimization.
 
 ---
 
-⭐ “Code is never finished — only improved.”  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aruldsouza&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aruldsouza&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruldsouza&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruldsouza&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📌 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aruldsouza&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+Backend scalability, cloud deployment, and full-stack system design.
+
+---
+
+## 🤝 Let’s Connect
+Open to internships, freelance projects, and collaborations in full-stack development.  
+📫 Reach me at **aruldsouzaj@gmail.com**
+
+---
+
+⭐ *“Every line of code builds the future — one commit at a time.”*
