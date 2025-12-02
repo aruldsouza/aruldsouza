@@ -65,15 +65,6 @@ IoT-driven automation system for real-time street light monitoring & energy opti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aruldsouza&theme=react-dark" />
 </p>
 
-### 📊 Statistics Dashboard
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aruldsouza&show_icons=true&theme=algolia" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aruldsouza&theme=algolia" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruldsouza&layout=compact&theme=algolia" />
-</p>
 
 ---
 
